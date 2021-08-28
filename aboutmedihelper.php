@@ -145,7 +145,7 @@
         <p  class="titlecolor">
            mymedihelper is a innovative project build for the fulfilment of the need of immediate medicines of a common man.It is a dynamic website containing both frontend and backend system allowing any of its user to successfully place their medicine order.Here the user can search for the nearby local shops and get its details by just entering the pincode.Also the user can search for the medicines available along with the other details by just entering the medicine name in searchbox.Also a user can register with mymedihelper in the register page and then login with their account credentials in the login page. 
         </p>
-        <p  class="titlecolor"> mymedihelper is a non-profit project build by vishal.mishra,kalpesh.vishwakarma,aniket.mane from computer department of A.C.E</p>
+        <p  class="titlecolor"> mymedihelper is a non-profit project build by vishal.mishra from computer department of A.C.E</p>
     </section>
     <footer>
         <div class="w-80">
